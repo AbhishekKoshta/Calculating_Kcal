@@ -1,5 +1,6 @@
 import numpy as np
 # Dietary intake details (Kcal calculation)
+# Creating dictionaries to use further
 Day = {};Sr_no = {};Food_item = {};Qty={};Diet_Timing={}
 Diet = open('Diet_Input.txt',"r")  # Fetch the dietary input from notepad file
 for x in Diet.readlines():
