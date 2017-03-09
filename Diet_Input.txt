@@ -1,0 +1,29 @@
+1	1	Egg	2	Breakfast
+2	1	Rice	200	Lunch
+3	1	tea	100	Snacks
+4	1	rice	100	Dinner
+5	2	Lemon tea	100	BreakFast
+6	2	rice	100	Lunch
+7	2	tea	100	Snacks
+8	2	rice	100	Dinner
+9	3	lemon tea	100	BreakFast
+10	3	Egg	2	Breakfast
+11	3	rice	100	Lunch
+12	3	Salmon	100	Lunch
+13	3	Mixed Veg	100	Lunch
+14	3	Dal	100	Lunch
+15	3	Maggi	1	Snacks
+16	3	tea	100	Snacks
+17	3	rice	100	Dinner
+18	3	chicken	100	Dinner
+19	3	Dal	100	Dinner
+20	3	Mixed Veg	100	Dinner
+21	4	lemon tea	100	BreakFast
+22	4	Egg	2	Breakfast
+23	4	rice	100	Lunch
+24	4	Dal	100	Lunch
+25	4	Mixed Veg	100	Lunch
+26	4	Motichoor Laddoo	100	Snacks
+27	4	rice	100	Dinner
+28	4	Mixed Veg	200	Dinner
+29	4	Dal	100	Dinner
